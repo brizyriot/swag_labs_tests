@@ -13,5 +13,5 @@
 Генерация отчета allure
 
 ```bash 
-    allure serve reports
+  allure serve reports
 ```
